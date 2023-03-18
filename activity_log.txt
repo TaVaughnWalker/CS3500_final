@@ -34,3 +34,7 @@ Jadon, Zufall [Mar 18 2023]:
 Jadon, Zufall [Mar 18 2023]:
 	Added documentation to readme.md on properly using github from a local machine rather then from the webpage as
 	I think that people have been using as this will make it much easier to host on a webserver etc.
+
+Jadon, Zufall [Mar 18 2023]:
+	Created header.php in order to include in other files elsewhere so that things are easily added across webpages and
+	are not required to be included elsewhere over and over again.
