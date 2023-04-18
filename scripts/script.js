@@ -43,6 +43,11 @@ const websitePages = {
         "verbose": "Sources",
         "link": "sources",
         "catagory": "Info"
+    },
+    "music": {
+        "verbose": "Music",
+        "link": "music",
+        "catagory": "Music"
     }
 }
 

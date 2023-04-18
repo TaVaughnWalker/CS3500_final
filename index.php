@@ -20,6 +20,9 @@ else if ($uri == '/sources') {
 else if ($uri == '/music') {
     require('views/music.php');
 }
+else if ($uri == '/comment') {
+    require('views/comment.php');
+}
 else {
     http_response_code(404);
     echo "404 Page not found";

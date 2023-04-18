@@ -47,3 +47,6 @@ Jadon, Zufall [Apr 17 2023]:
 
 Jadon, Zufall [Apr 17 2023]:
     Updated all default required pages to be properly implemented in php stuff
+
+Jadon, Zufall [Apr 17 2023]:
+	Writing SQL database schema as well as comment section post and get pages
