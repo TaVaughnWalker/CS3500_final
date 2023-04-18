@@ -1,0 +1,53 @@
+<body onload="pageSetup();">
+    <style>
+        .container {
+            padding-top: 35px;
+        }
+        .selected-item {
+            background-color: lightgreen;
+        }
+    </style>
+    <div class="container" style="align-items: center; text-align: center;">
+    <h1>Album Selector</h1>
+    <hr class="solid">
+    <div class="row text_section" style="display: flex; align-items: center; justify-content: center;">
+        <div style="float: left;">
+            <button class="btn btn-default" onclick="btnDec();">&lt;</button>
+        </div>
+        
+        <div class="col-xs-6 col-md-2" style="padding-top: 20px;">
+            <a href="#" class="thumbnail" onclick="activate(-2);">
+                <img src="../images/albums/1-tim-mcgraw.jpg" id="img0">
+            </a>
+        </div>
+        <div class="col-xs-6 col-md-2" style="padding-top: 20px;">
+            <a href="#" class="thumbnail" onclick="activate(-1);">
+                <img src="../images/albums/1-tim-mcgraw.jpg" id="img1">
+            </a>
+        </div>
+        <div class="col-xs-6 col-md-2" style="padding-top: 20px;">
+            <a href="#" class="thumbnail" onclick="activate(0);">
+                <img src="../images/albums/1-tim-mcgraw.jpg" id="img2">
+            </a>
+        </div>
+        <div class="col-xs-6 col-md-2" style="padding-top: 20px;">
+            <a href="#" class="thumbnail" onclick="activate(1);">
+                <img src="../images/albums/1-tim-mcgraw.jpg" id="img3">
+            </a>
+        </div>
+        <div class="col-xs-6 col-md-2" style="padding-top: 20px;">
+            <a href="#" class="thumbnail" onclick="activate(2);">
+                <img src="../images/albums/1-tim-mcgraw.jpg" id="img4">
+            </a>
+        </div>
+        <div style="float: right;">
+            <button class="btn btn-default" onclick="btnInc();">&gt;</button>
+        </div>
+
+    </div>
+    <h1 id="song-title"></h1>
+    <p id="song-list"></p>
+    </div>
+    <script src="../scripts/script.js"></script>
+    <script src="../scripts/music.js">updateSelection();</script>
+</body>

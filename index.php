@@ -17,3 +17,10 @@ else if ($uri == '/references') {
 else if ($uri == '/sources') {
     require('views/sources.php');
 }
+else if ($uri == '/music') {
+    require('views/music.php');
+}
+else {
+    http_response_code(404);
+    echo "404 Page not found";
+}
