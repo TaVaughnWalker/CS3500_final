@@ -1,15 +1,19 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-    <head>
-        <meta charset="utf-8">
-        <title>TODO Later</title>
+<?php
+// This file is whats references by default and routes everything else.
 
-        <script src="js/JQuery.js"></script>
-        
-    </head>
-    <body>
-        <form action="functions.php" method="get">
-            <input type="text" name="num01" placeholder="Number 1">
-        </form>
-    </body>
-</html>
+$uri = parse_url($_SERVER['REQUEST_URI'])['path'];
+if ($uri == '/' or $uri == '/index') {
+    require('views/index.php');
+}
+else if ($uri == '/about') {
+    require('views/about.php');
+}
+else if ($uri == '/catalog') {
+    require('views/catalog.php');
+}
+else if ($uri == '/references') {
+    require('views/references.php');
+}
+else if ($uri == '/sources') {
+    require('views/sources.php');
+}

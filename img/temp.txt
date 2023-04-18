@@ -1,2 +1,0 @@
-This file is just here so git will consider this an actual file and it uploads
-so people know where to upload images.

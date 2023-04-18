@@ -38,3 +38,12 @@ Jadon, Zufall [Mar 18 2023]:
 Jadon, Zufall [Mar 18 2023]:
 	Created header.php in order to include in other files elsewhere so that things are easily added across webpages and
 	are not required to be included elsewhere over and over again.
+
+Jadon, Zufall [Apr 7 2023]:
+    Started work on improving router
+
+Jadon, Zufall [Apr 17 2023]:
+    Redesigned my implemented php stuff to be better.
+
+Jadon, Zufall [Apr 17 2023]:
+    Updated all default required pages to be properly implemented in php stuff
