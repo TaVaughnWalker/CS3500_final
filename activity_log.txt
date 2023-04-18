@@ -53,3 +53,6 @@ Jadon, Zufall [Apr 17 2023]:
 	
 Anichka, Malachi [Apr 18 2023]:
 	Added file structures for trivia, philanthropy, tourdates and awards pages
+	
+Anichka, Malachi [Apr 18 2023]:
+	Added pages for nav bar
