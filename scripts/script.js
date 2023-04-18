@@ -48,7 +48,27 @@ const websitePages = {
         "verbose": "Music",
         "link": "music",
         "catagory": "Music"
-    }
+    },
+    "awards": {
+        "verbose": "Awards",
+        "link": "awards",
+        "catagory": "Music"
+    },
+    "philanthropy": {
+        "verbose": "Philanthropy",
+        "link": "philanthropy",
+        "catagory": "Other"
+    },
+    "tourdates": {
+        "verbose": "Tour Dates",
+        "link": "tourdates",
+        "catagory": "Other"
+    },
+    "triva": {
+        "verbose": "Trivia",
+        "link": "trivia",
+        "catagory": "Other"
+    },
 }
 
 
