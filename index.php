@@ -23,6 +23,18 @@ else if ($uri == '/music') {
 else if ($uri == '/comment') {
     require('views/comment.php');
 }
+else if ($uri == '/awards') {
+    require('views/awards.php');
+}
+else if ($uri == '/philanthropy') {
+    require('views/philanthropy.php');
+}
+else if ($uri == '/trivia') {
+    require('views/trivia.php');
+}
+else if ($uri == '/tourdates') {
+    require('views.tourdates.php');
+}
 else {
     http_response_code(404);
     echo "404 Page not found";
