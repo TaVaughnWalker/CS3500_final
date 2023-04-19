@@ -59,3 +59,6 @@ Anichka, Malachi [Apr 18 2023]:
 
 Anichka, Malachi [Apr 19 2023]:
 	Added php files that add header to pages for trivia, philanthropy and awards pages and added custom header for tourdates.html
+	
+Anichka, Malachi [Apr 19 2023]:
+	Updated index.php to include new pages
