@@ -62,3 +62,15 @@ Anichka, Malachi [Apr 19 2023]:
 	
 Anichka, Malachi [Apr 19 2023]:
 	Updated index.php to include new pages
+
+Cassidy, Norkett [Apr 19 2023]:
+	Added php file structures for hardships, activism, genreswitch, and taylorsversion pages
+	
+Cassidy, Norkett [Apr 19 2023]:
+	Added pages for nav bar
+
+Cassidy, Norkett [Apr 19 2023]:
+	Changed font, font size, background color, and echo statements to my new genreswitch, hardships, taylorsversion, and activism pages
+	
+ACassidy, Norkett [Apr 19 2023]:
+	Updated index.php to include new pages
