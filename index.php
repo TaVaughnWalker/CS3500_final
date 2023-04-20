@@ -35,6 +35,18 @@ else if ($uri == '/trivia') {
 else if ($uri == '/tourdates') {
     require('views.tourdates.php');
 }
+else if ($uri == '/activism') {
+    require('views.activism.php');  
+}
+else if ($uri == '/taylorsversion') {
+    require('views.taylorsversion.php');
+}
+else if ($uri == '/hardships') {
+    require('views.hardships.php'); 
+}
+else if ($uri == '/genreswitch') {
+    require('views.genreswitch.php');
+}
 else {
     http_response_code(404);
     echo "404 Page not found";
