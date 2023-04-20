@@ -1,35 +1,51 @@
  <body>
  <?php 
-    $bg_color = '#ADD8E6';  
+    $bg_color = '#D2B48C';  
     echo "<body style='background-color: $bg_color;'>"; 
-    echo "<h1> <font color=black font face='gadugi' size='7pt'>Hardships</font> </h1>";
+    echo "<h1> <font color=black font face='gadugi' size='7pt'>Taylor's Version</font> </h1>";
+echo  '<a href="hhttps://www.albanystudentpress.online/post/taylor-s-version-what-does-it-mean"> Taylors Version History</a>';
 
-    echo "<p> <font color=black font face='gadugi' size='7pt'>As a female pop artist, Taylor Swift has had her fair share of hardships in show business. Taylor Swift has faced backlash for the muse of her songwriting, the awards that she has won, and rejection from producers and record companies. The hardships and derailments only seemed to make her stronger as a singer and a woman.</font> </p>";
-echo  '<img src="https://www.rollingstone.com/wp-content/uploads/2009/09/9515192dW.jpg"  />';
-
-
-echo "<h2> <font color=black font face='gadugi' size='7pt'>Kanye West and Taylor Swift: VMAs 2009</font> </h3>";
-echo  '<a href="https://www.sportskeeda.com/pop-culture/what-did-kanye-west-do-to-taylor-swift-at-the-grammys#:~:text=Kanye%20West%20interrupted%20Taylor%20Swift,best%20videos%20of%20all%20time!%20%22"> Kanye West and Taylor Swift VMAs 2009</a>';
-
-echo "<p> <font color=black font face='gadugi' size='5pt'>In 2009, Taylor Swift won a VMA for 'Video of the Year.' When Taylor Swift walked on stage to give her acceptance speech, she was interrupted by Kanye West 
-who took the microphone and stated, 'I'mma let you finish, but Beyoncé had one of the best videos of all time, one of the best videos of all time!'
-his moment was stolen from Taylor Swift and started a feud with West which placed turmoil on her career. However, her fan base, the 'Swifties,' had her back 
-and she had more support than ever.</font> </p>";
-
-echo "<h2> <font color=black font face='gadugi' size='7pt'>Sexist Critiques</font> </h3>";
-echo  '<a href="https://www.bupipedream.com/opinions/124396/taylor-swift-is-a-victim-of-sexist-criticism/"> Sexist Critiques</a>';
-
-echo "<p> <font color=black font face='gadugi' size='5pt'>People seem to think that Taylor Swift only writes music about her exes. This can be disheartening to an artist who knows that is not the truth. Taylor Swift writes about a variety of topics in her songs, yet people criticize her for writing shallow music. Because of this, Taylor Swift is deemed Boy-Crazy just because she often writes about her feelings of current and past relationships. She is a victim of sexist remarks based on how many guys or how many songs that she writes about. This has both made her songwriting career difficult with her haters, but also inspired her to write about the haters as well.</font> </p>";
-
-echo  '<img src="https://media.glamourmagazine.co.uk/photos/6138d6db2bec5fcec32c418d/16:9/w_1280,c_limit/taylor-swift_glamour_24oct16_pa-b.jpg"  />';
+    echo "<p> <font color=black font face='gadugi' size='7pt'>We all know that Taylor Swift keeps coming out with new music, but something occurred in 2021 that surprised fans, and confused some of her audience. Taylor Swift dropped an album, but it was not a completely new album. It was titled, <i>Red (Taylor's Version)</i>. 'Red' had already come out in 2012. What was it doing being re-released in 2021, nearly a decade later?</font> </p>";
 
 
-echo "<h2> <font color=black font face='gadugi' size='7pt'>Rejection</font> </h3>";
-echo  '<a href="https://en.wikipedia.org/wiki/Taylor_Swift_(album)#:~:text=At%20age%20eleven%2C%20Swift%20traveled,girl%2C%20which%20Swift%20firmly%20disbelieved."> Rejection</a>';
 
-echo "<p> <font color=black font face='gadugi' size='5pt'>We all know the huge success that Taylor Swift is. She has ten albums, four EPs, and two re-recordings. However, even a globally known popstar has her fair share of rejection.
-              When Swift was eleven-years-old, she submitted a demo recording of covers to record labels, but was ultimately rejected due to the fact that the record companies believed their 
-              listener demographic would not listen to Taylor. Because of this, Taylor Swift started to develop her own music, learned to play the guitar, and begain writing 
-              her own lyrics in hopes to create her own 'sound.' This paid off for Taylor because at only 14-years-old, she signed on with Sony/ATV Publishing House.</font> </p>";
+echo "<h2> <font color=black font face='gadugi' size='7pt'>What Does Taylor's Version Mean?</font> </h2>";
+
+echo "<p> <font color=black font face='gadugi' size='5pt'>'Taylor's Version' essentially means that Taylor Swift now owns the master to that album and the songs on them. This means that she is now the person who decides who can use her music and where. That legal action has to go through her now.</font> </p>";
+
+echo "<p> <font color=black font face='gadugi' size='5pt'>Taylor decided to do this because her masters were in the hands of a man named Braunn. In order to get the right to her music back, she was told that she had to create six new albums under the authority of Braunn. Taylor was rightfully frustrated by this, so she found a loophole in order to obtain the rights to her music right away.</font> </p>";
+
+echo "<p> <font color=black font face='gadugi' size='5pt'>The six new albums she would create are re-recordings of her past six albums, with more songs added as well as changes to the already recorded songs.</font> </p>";
+
+echo "<p> <font color=black font face='gadugi' size='5pt'>As of this year, Taylor has re-recorded and released two of her six albums, <i>'Red'</i> and <i>'Fearless'</i>.</font> </p>";
+
+echo  '<img src="https://marquettewire.org/wp-content/uploads/2021/11/Screenshot-26-900x679.png"  />';
+
+
+
+echo "<h2> <font color=black font face='gadugi' size='7pt'>'Red (Taylor's Version)'</font> </h3>";
+
+
+echo "<p> <font color=black font face='gadugi' size='5pt'>The second re-recording came out November 12, 2021. The original album included 16 songs. The re-recorded 'Taylor's Version' album has 30 songs. Half of these songs have never been released and were a part of what Taylor calls, 'From the Vault.' These are songs that Taylor had wanted on the album, but they were never able to be a part of that release.</font> </p>";
+
+echo "<p> <font color=black font face='gadugi' size='5pt'>Many fans were ecstatic. Not only because there were 14 more songs that they had never heard before from that era, but because Taylor Swift, herself, now owned that music.</font> </p>";
+
+echo  '<img src="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png"  />';
+
+
+echo "<h2> <font color=black font face='gadugi' size='7pt'>'Fearless' (Taylor's Version)</font> </h2>";
+
+
+echo "<p> <font color=black font face='gadugi' size='5pt'>The first re-recording and the last to-date, is <i>'Fearless (Taylor's Version)'</i>. This album originally had 13 songs. The re-recorded <i>'Fearless (Taylor's Version)'</i> album contains 27 songs, with the extra tracks coming 'From the Vault.'</font> </p>";
+
+echo "<h2> <font color=black font face='gadugi' size='7pt'>Why Listen to 'Taylor's Version?'</font> </h2>";
+
+
+echo "<p> <font color=black font face='gadugi' size='5pt'>A lot of people are asking why her fans are only listening to the <i>(Taylor's Version)'</i> tracks and albums. This is out of respect to Taylor. If her fans listen to only these songs, since Taylor is the only owner of these tracks, the owner of the non-Taylor's Version albums, will not benefit from fans listening to the albums that he owns.</font> </p>";
+echo "<p> <font color=black font face='gadugi' size='5pt'>Taylor Swift has been working hard and plans to re-record and release the remaining four albums. This project is not only liberating for Taylor, but it is an awesome way for her fans, the 'Swifties,' to hear more of her music that they did not get the chance to listen to during those album eras.</font> </p>";
   ?>  
   </body>
+
+
+
+
