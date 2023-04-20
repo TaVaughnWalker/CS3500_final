@@ -33,19 +33,19 @@ else if ($uri == '/trivia') {
     require('views/trivia.php');
 }
 else if ($uri == '/tourdates') {
-    require('views.tourdates.php');
+    require('views/tourdates.php');
 }
 else if ($uri == '/activism') {
-    require('views.activism.php');  
+    require('views/activism.php');  
 }
 else if ($uri == '/taylorsversion') {
-    require('views.taylorsversion.php');
+    require('views/taylorsversion.php');
 }
 else if ($uri == '/hardships') {
-    require('views.hardships.php'); 
+    require('views/hardships.php'); 
 }
 else if ($uri == '/genreswitch') {
-    require('views.genreswitch.php');
+    require('views/genreswitch.php');
 }
 else {
     http_response_code(404);
