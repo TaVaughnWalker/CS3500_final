@@ -74,3 +74,9 @@ Cassidy, Norkett [Apr 19 2023]:
 	
 ACassidy, Norkett [Apr 19 2023]:
 	Updated index.php to include new pages
+
+Jadon, Zufall [Apr 19 2023]:
+    Pathing corrections.
+
+Jadon, Zufall [Apr 19 2023]:
+	Method validation on comments form.
