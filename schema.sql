@@ -6,7 +6,7 @@ CREATE DATABASE taylor_swift;
 USE taylor_swift;
 
 CREATE TABLE comments (
-    commentID int NOT NULL AUTO_INCREMENT PRIMARY KEY ,
-    commentText char(500) NOT NULL,
-    postDate DateTime NOT NULL DEFAULT NOW()
+    commentID INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+    commentText TEXT(500) NOT NULL,
+    postDate DATETIME NOT NULL DEFAULT NOW()
 );
