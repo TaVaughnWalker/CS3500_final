@@ -72,7 +72,7 @@ Cassidy, Norkett [Apr 19 2023]:
 Cassidy, Norkett [Apr 19 2023]:
 	Changed font, font size, background color, and echo statements to my new genreswitch, hardships, taylorsversion, and activism pages
 	
-ACassidy, Norkett [Apr 19 2023]:
+Cassidy, Norkett [Apr 19 2023]:
 	Updated index.php to include new pages
 
 Jadon, Zufall [Apr 19 2023]:
@@ -80,3 +80,6 @@ Jadon, Zufall [Apr 19 2023]:
 
 Jadon, Zufall [Apr 19 2023]:
 	Method validation on comments form.
+
+Cassidy, Norkett [Apr 19 2023]:
+	Changed the format, so the php file references the static file
