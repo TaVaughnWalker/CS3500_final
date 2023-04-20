@@ -86,3 +86,11 @@ Cassidy, Norkett [Apr 19 2023]:
 
 Jadon, Zufall [Apr 19 2023]:
 	Added proper database things
+	
+Cassidy, Norkett [Apr 20 2023]:
+	Added background colors for genreswitch, taylorsversion, hardships, and activism pages
+	
+Cassidy, Norkett [Apr 20 2023]:
+	Changed font for genreswitch, taylorsversion, hardships, and activism pages
+
+
