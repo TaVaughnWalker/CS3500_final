@@ -69,6 +69,21 @@ const websitePages = {
         "link": "trivia",
         "catagory": "Other"
     },
+    "listen": {
+        "verbose": "Listen",
+        "link": "listen",
+        "catagory": "Music"
+    },
+    "acting": {
+        "verbose": "Acting",
+        "link": "acting",
+        "catagory": "Other"
+    },
+    "previoustours": {
+        "verbose": "Previous Tours",
+        "link": "previoustours",
+        "catagory": "Other"
+    }
 }
 
 
