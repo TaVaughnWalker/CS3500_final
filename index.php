@@ -50,6 +50,15 @@ else if ($uri == '/genreswitch') {
 else if ($uri == '/thankyou') {
     require('views/thankyou.php');
 }
+else if ($uri == '/listen') {
+    require('views/listen.php');
+}
+else if ($uri == '/acting') {
+    require('views/acting.php');
+}
+else if ($uri == '/previoustours') {
+    require('views/previoustours.php');
+}
 else {
     http_response_code(404);
     echo "404 Page not found";
